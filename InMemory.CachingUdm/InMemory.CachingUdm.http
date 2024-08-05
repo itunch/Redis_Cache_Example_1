@@ -1,0 +1,6 @@
+@InMemory.CachingUdm_HostAddress = http://localhost:5183
+
+GET {{InMemory.CachingUdm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

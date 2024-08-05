@@ -1,0 +1,6 @@
+@Distributed.CachingUdm_HostAddress = http://localhost:5114
+
+GET {{Distributed.CachingUdm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
